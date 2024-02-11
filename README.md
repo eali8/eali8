@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmy Ali.
-- 👩‍💻 I am passionate Front End Developer. 
+- 👩‍💻 I'm a passionate Front End Developer. 
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning REACT JS. 
 - 💞️ I’m looking to collaborate on DAILY BASIS. 
